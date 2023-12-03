@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@jambonn/vue-lazyload": "^1.0.9",
     "ant-design-vue": "^4.0.7",
     "axios": "^1.6.2",
+    "cursor-effects": "^1.0.12",
+    "js-md5": "^0.8.3",
     "sass": "^1.69.5",
     "vfonts": "^0.0.3",
     "vue": "^3.3.8",

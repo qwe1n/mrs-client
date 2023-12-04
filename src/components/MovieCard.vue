@@ -26,7 +26,7 @@
 </template>
 
 <script setup>
-import {defineProps, ref} from "vue";
+import {ref} from "vue";
 import {
   HeartOutlined
 } from '@ant-design/icons-vue';

@@ -31,7 +31,7 @@
 
 .grid figure figcaption {
     padding: 1em 2em 2em 2em;
-    color: #fff;
+    color: #3ff9dc;
     text-transform: uppercase;
     font-size: 1.25em;
     -webkit-backface-visibility: hidden;
@@ -134,13 +134,12 @@ figure.effect-apollo .p2 {
     transition: opacity 0.35s;
 }
 
-
 figure.effect-apollo h2 {
     text-align: left;
 }
 
 figure.effect-apollo:hover img {
-    opacity: 0.6;
+    opacity: 0.4;
     -webkit-transform: scale3d(1,1,1);
     transform: scale3d(1,1,1);
 }
